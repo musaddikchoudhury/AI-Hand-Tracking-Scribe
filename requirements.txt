@@ -1,0 +1,7 @@
+opencv-python
+mediapipe
+pygame
+torch
+transformers
+pillow
+pyautogui
